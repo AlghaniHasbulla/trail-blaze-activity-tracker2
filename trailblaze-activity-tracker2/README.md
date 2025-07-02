@@ -123,6 +123,9 @@ Base URL: http://localhost:5050
 - Allow user signup/login (JWT Auth)
 - Like and bookmark locations
 - Upload images for reviews/locations
+-Improve on the UI/UX 
+- Add more features to the backend API
+- Add more routes to the frontend
 
 ### Credits
 
